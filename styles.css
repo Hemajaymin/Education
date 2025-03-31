@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #FF8C00;
+    padding: 10px;
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.hero {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 60%;
+    height: 100px;
+    padding: 10px;
+}
+
+button {
+    background-color: #FF8C00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
